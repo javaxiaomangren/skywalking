@@ -30,15 +30,15 @@
     <properties>
         <slf4j.version>1.7.30</slf4j.version>
         <log4j.version>2.17.1</log4j.version>
-        <graphql-java-tools.version>12.0.2</graphql-java-tools.version>
-        <graphql-java.version>17.3</graphql-java.version>
-        <graphql-java-extended-scalars.version>17.0</graphql-java-extended-scalars.version>
+        <graphql-java-tools.version>13.0.3</graphql-java-tools.version>
+        <graphql-java.version>17.5</graphql-java.version>
+        <graphql-java-extended-scalars.version>20.1</graphql-java-extended-scalars.version>
         <okhttp.version>3.14.9</okhttp.version>
         <httpclient.version>4.5.13</httpclient.version>
         <h2.version>2.1.210</h2.version>
         <joda-time.version>2.10.5</joda-time.version>
         <zookeeper.version>3.5.7</zookeeper.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <snakeyaml.version>1.28</snakeyaml.version>
         <protobuf-java.version>3.19.2</protobuf-java.version>
         <protobuf-java-util.version>3.19.2</protobuf-java-util.version>
@@ -61,7 +61,7 @@
         <curator-test.version>2.12.0</curator-test.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <netty.version>4.1.68.Final</netty.version>
-        <jackson-module-afterburner.version>2.12.2</jackson-module-afterburner.version>
+        <jackson-module-afterburner.version>2.13.5</jackson-module-afterburner.version>
         <antlr.version>4.9.2</antlr.version>
         <freemarker.version>2.3.28</freemarker.version>
         <javaassist.version>3.25.0-GA</javaassist.version>
