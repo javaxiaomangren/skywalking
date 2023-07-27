@@ -38,7 +38,7 @@
         <h2.version>2.1.210</h2.version>
         <joda-time.version>2.10.5</joda-time.version>
         <zookeeper.version>3.5.7</zookeeper.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <snakeyaml.version>1.28</snakeyaml.version>
         <protobuf-java.version>3.19.2</protobuf-java.version>
         <protobuf-java-util.version>3.19.2</protobuf-java-util.version>
@@ -47,7 +47,7 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <netty-tcnative-boringssl-static.version>2.0.43.Final</netty-tcnative-boringssl-static.version>
         <commons-io.version>2.6</commons-io.version>
-        <kubernetes.version>14.0.0</kubernetes.version>
+        <kubernetes.version>18.0.0</kubernetes.version>
         <hikaricp.version>3.1.0</hikaricp.version>
         <zipkin.version>2.9.1</zipkin.version>
         <jackson-core.version>2.12.2</jackson-core.version>
