@@ -61,7 +61,7 @@
         <curator-test.version>2.12.0</curator-test.version>
         <etcd4j.version>2.18.0</etcd4j.version>
         <netty.version>4.1.68.Final</netty.version>
-        <jackson-module-afterburner.version>2.12.2</jackson-module-afterburner.version>
+        <jackson-module-afterburner.version>2.13.0</jackson-module-afterburner.version>
         <antlr.version>4.9.2</antlr.version>
         <freemarker.version>2.3.28</freemarker.version>
         <javaassist.version>3.25.0-GA</javaassist.version>
