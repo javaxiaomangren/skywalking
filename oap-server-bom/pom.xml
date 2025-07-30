@@ -53,7 +53,7 @@
         <jackson-core.version>2.12.2</jackson-core.version>
         <jackson-annotations.version>2.12.2</jackson-annotations.version>
         <jackson-databind.version>2.12.2</jackson-databind.version>
-        <commons-text.version>1.4</commons-text.version>
+        <commons-text.version>1.14.0</commons-text.version>
         <simpleclient.version>0.6.0</simpleclient.version>
         <apollo.version>1.8.0</apollo.version>
         <nacos.version>1.4.2</nacos.version>
