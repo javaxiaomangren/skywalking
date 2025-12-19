@@ -29,7 +29,7 @@
 
     <properties>
         <slf4j.version>1.7.30</slf4j.version>
-        <log4j.version>2.17.1</log4j.version>
+        <log4j.version>2.25.3</log4j.version>
         <graphql-java-tools.version>12.0.2</graphql-java-tools.version>
         <graphql-java.version>17.3</graphql-java.version>
         <graphql-java-extended-scalars.version>17.0</graphql-java-extended-scalars.version>
@@ -47,7 +47,7 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <netty-tcnative-boringssl-static.version>2.0.43.Final</netty-tcnative-boringssl-static.version>
         <commons-io.version>2.6</commons-io.version>
-        <kubernetes.version>14.0.0</kubernetes.version>
+        <kubernetes.version>21.0.0</kubernetes.version>
         <hikaricp.version>3.1.0</hikaricp.version>
         <zipkin.version>2.9.1</zipkin.version>
         <jackson-core.version>2.12.2</jackson-core.version>
